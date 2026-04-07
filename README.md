@@ -1,4 +1,4 @@
-# TEM 3D Simulator 🔬 / 透射电子显微镜 3D 教学系统
+# STM 3D Simulator 🔬 / 透射电子显微镜 3D 教学系统
 
 [English](#english) | [中文版](#中文版)
 
@@ -7,7 +7,7 @@
 <a id="english"></a>
 ## English
 
-An interactive, browser-based 3D educational application designed to help students and researchers understand the structure and working principles of a Transmission Electron Microscope (TEM). 
+An interactive, browser-based 3D educational application designed to help students and researchers understand the structure and working principles of a Scanning Transmission Electron Microscope (STM). 
 
 The entire application is bundled into a **single HTML file**, making it incredibly easy to share, host, or use completely offline without any server setup.
 
@@ -43,7 +43,7 @@ This `index.html` is a single file containing all code and resources. You can do
 <a id="中文版"></a>
 ## 中文版
 
-这是一个基于浏览器的交互式 3D 教学应用程序，旨在帮助学生和科研人员直观地了解透射电子显微镜（TEM）的内部结构和工作原理。
+这是一个基于浏览器的交互式 3D 教学应用程序，旨在帮助学生和科研人员直观地了解扫描透射电子显微镜（STM）的内部结构和工作原理。
 
 整个应用程序被打包成一个**单 HTML 文件**，无需任何服务器配置，即可极其方便地分享、托管或完全离线使用。
 
