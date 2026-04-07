@@ -58,7 +58,7 @@ This `index.html` is a single file containing all code and resources. You can do
 ### 🚀 快速开始
 
 #### 面向普通用户（无需安装）
-只需从 [Releases](../../releases) 页面下载最新的 `index.html`（或 `tem-3d-simulator.html`）文件，双击即可在任何现代网页浏览器（如 Chrome, Edge, Safari, Firefox）中直接打开使用。
+只需从 [Releases](../../releases) 页面下载最新的 `index.html`文件，双击即可在任何现代网页浏览器（如 Chrome, Edge, Safari, Firefox）中直接打开使用。
 
 #### 面向开发者（从源码构建）
 1. 在源代码文件夹中打开命令行工具（如 PowerShell 或 Terminal）。
