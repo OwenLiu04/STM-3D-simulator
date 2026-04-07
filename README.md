@@ -38,6 +38,11 @@ After the build is complete, you will find a file named `index.html` in the `dis
 
 This `index.html` is a single file containing all code and resources. You can double-click it to open it in your browser directly, without any local server environment, making it very convenient for sharing and offline use!
 
+### 📬 Contact
+
+*   **Author:** OwenLiu04
+*   **Email:** lf19902001@qq.com
+*   **GitHub:** [https://github.com/OwenLiu04](https://github.com/OwenLiu04)
 ---
 
 <a id="中文版"></a>
@@ -73,3 +78,9 @@ This `index.html` is a single file containing all code and resources. You can do
 构建完成后，您会在项目目录下的 `dist` 文件夹中找到一个名为 `index.html` 的文件。
 
 这个 `index.html` 就是包含了所有代码和资源的单个文件。您可以直接双击在浏览器中打开它，无需任何本地服务器环境，非常方便分享和离线使用！
+
+### 📬 联系方式
+
+*   **作者:** OwenLiu04
+*   **邮箱:** lf19902001@qq.com
+*   **GitHub:** [https://github.com/OwenLiu04](https://github.com/OwenLiu04)
